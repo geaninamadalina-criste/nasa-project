@@ -4,7 +4,7 @@ The completed version of our NASA project from [Complete Node.js Developer: Zero
 
 Keep in mind that we recommend you code along with us and use this only if you ever get stuck or you don't like to code along.
 
-## Getting Started
+## Getting Started.
 
 1. Ensure you have Node.js installed.
 2. Create a free [Mongo Atlas](https://www.mongodb.com/atlas/database) database online or start a local MongoDB database.
@@ -24,6 +24,7 @@ Keep in mind that we recommend you code along with us and use this only if you e
 
 ## Running the Tests
 
-To run any automated tests, run `npm test`. This will: 
-* Run all the client-side tests: `npm test --prefix client`
-* Run all the server-side tests: `npm test --prefix server` 
+To run any automated tests, run `npm test`. This will:
+
+- Run all the client-side tests: `npm test --prefix client`
+- Run all the server-side tests: `npm test --prefix server`
